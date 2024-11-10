@@ -1,2 +1,4 @@
 /node_modules
 .idea
+constants.js
+db.js
